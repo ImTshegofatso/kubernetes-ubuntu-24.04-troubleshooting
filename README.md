@@ -51,6 +51,6 @@ Each issue was investigated methodically:
 Snap was used to install Kubernetes components in a self-contained and reliable manner:
 
 ```bash
-sudo snap install kubectl --classic
-sudo snap install kubeadm --classic
-sudo snap install kubelet --classic
+snap install kubectl --classic
+snap install kubeadm --classic
+snap install kubelet --classic
